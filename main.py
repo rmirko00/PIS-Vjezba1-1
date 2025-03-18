@@ -6,3 +6,5 @@ if __name__ == "__main__":
 
 def nova_funkcija():
     return "Ovo je nova funkcija."
+
+#ovo je moj komentar -Roko
